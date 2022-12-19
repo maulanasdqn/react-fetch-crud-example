@@ -1,0 +1,16 @@
+{
+  "mahasiswa": [
+    {
+      "id": "0001",
+      "fullname": "Maulana Sodiqin",
+      "student_id": "41037006200028",
+      "major": "Computer Science"
+    },
+    {
+      "id": "0001",
+      "fullname": "Fenny Oktaviani",
+      "student_id": "41037006200034",
+      "major": "Computer Science"
+    }
+  ]
+}
